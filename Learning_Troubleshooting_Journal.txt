@@ -1,0 +1,4 @@
+01/30/2022 - Today I troublehsooted:
+  Used modifiers in real life as function was triggering error "Function declared as pure, but this expression (potentially) modifies the state and thus requires non-payable (the default) or payable"
+  
+  
